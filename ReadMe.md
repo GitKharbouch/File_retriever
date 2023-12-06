@@ -1,0 +1,1 @@
+This is a file retrieving microservice. It is used to retrieve files from one folder to another as a first step to send them to the preprocesing microservice.
